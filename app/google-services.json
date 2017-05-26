@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "545378039993",
+    "firebase_url": "https://fir-basic-a61d8.firebaseio.com",
+    "project_id": "fir-basic-a61d8",
+    "storage_bucket": "fir-basic-a61d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545378039993:android:532e19a7665ac7e1",
+        "android_client_info": {
+          "package_name": "lifesaver.example.nikhil.graphview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545378039993-u1s66dgp4p9td625sfr6coq7n8fglnfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lifesaver.example.nikhil.graphview",
+            "certificate_hash": "0071667b759314fbc6b7a7926f9a16caa079d8ee"
+          }
+        },
+        {
+          "client_id": "545378039993-62am29nvkl20sm1s2b62iph9urpced5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhySxNxN2U5kCEDA3tLC9XdyaigD6tKIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545378039993-62am29nvkl20sm1s2b62iph9urpced5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
